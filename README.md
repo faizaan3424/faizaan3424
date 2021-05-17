@@ -2,10 +2,12 @@
 
 My name is Faizaan Aslam. I'm currently a high school student who is enthusiastic about computers and loves to learn new things. I've played around with many programming languages and technologies including HTML, CSS, SASS, JavaScript (plus React.js, Discord JS, and more), TypeScript, XML, PostgreSQL, MySQL, Java, Python, Ruby, C (for Arduino), C++, Lua, Dart (including Flutter), and more!
 
-As of now, I want to improme my problem solving skills, so I'm grinding on Leetcode as much as I can; I am also helping to develop an app for a youth organization.
+As of now, I want to improme my problem solving skills, so I'm grinding on Leetcode as much as I can; I am also helping to develop an app for a youth organization. I also keep most of my projects stored locally because it's always a hassle to sync everything to GitHub, but nonetheless, I've uploaded a few that I'm especially proud of here.
 
-I keep most of my projects stored locally because it's always a hassle to sync everything to GitHub, but nonetheless, I've uploaded a few that I'm especially proud of here.
+Outside of computers, I'm interested as well in learning new languages during my free time - these include French, Urdu, and Japanese. This is because, in the future, I want to not only become a proficient software developer, but a polyglot too.
 
+Hope that our paths my cross one day,
+Faizaan
 <!--
 **Nitroblast009/Nitroblast009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
