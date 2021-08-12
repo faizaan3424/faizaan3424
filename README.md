@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-My name is Faizaan Aslam. I'm currently a high school student who is enthusiastic about computers and loves to learn new things. I've played around with many programming languages and technologies including HTML, CSS, SASS, JavaScript (plus React.js, Discord JS, etc.), TypeScript, XML, PostgreSQL, MySQL, Java, Python, Ruby, C (for Arduino), C++, Lua, Dart (including Flutter), and even more!
+My name is Faizaan A. I'm currently a high school student who is enthusiastic about computers and loves to learn new things. I've played around with many programming languages and technologies including HTML, CSS, SASS, JavaScript (plus React.js, Discord JS, etc.), TypeScript, XML, PostgreSQL, MySQL, Java, Python, Ruby, C (for Arduino), C++, Lua, Dart (including Flutter), and even more!
 
 As of now, I want to improme my problem solving skills, so I'm grinding on Leetcode as much as I can; I am also helping to develop an app for a youth organization and am responsible for managing their [website](https://myvoicecanada.com/). In addition, I keep most of my projects stored locally because it's always a hassle to sync everything to GitHub, but nonetheless, I've uploaded a few that I'm especially proud of here.
 
