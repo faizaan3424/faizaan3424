@@ -6,7 +6,7 @@ As of now, I want to improme my problem solving skills, so I'm grinding on Leetc
 
 Outside of computers, I'm interested as well in learning new languages during my free time - these include French, Urdu, and Japanese. This is because, in the future, I want to not only become a proficient software developer, but a polyglot too. This will allow me to connect with computer lovers from all across the world and work with a diverse set of talented people.
 
-Hope that our paths my cross one day,<br />
+Virtually yours,<br />
 Faizaan 😄
 <!--
 **Nitroblast009/Nitroblast009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
