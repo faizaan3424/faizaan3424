@@ -2,7 +2,7 @@
 
 My name is Faizaan A. I'm currently a high school student who is enthusiastic about computers and loves to learn new things. I've played around with many programming languages and technologies including HTML, CSS, SASS, JavaScript (plus React.js, Discord JS, etc.), TypeScript, XML, PostgreSQL, MySQL, Java, Python, Ruby, C (for Arduino), C++, Lua, Dart (including Flutter), and even more!
 
-As of now, I want to improme my problem solving skills, so I'm grinding on Leetcode as much as I can; I am also helping to develop an app for a youth organization and am responsible for managing their [website](https://myvoicecanada.com/). In addition, I keep most of my projects stored locally because it's always a hassle to sync everything to GitHub, but nonetheless, I've uploaded a few that I'm especially proud of here.
+As of now, I want to improme my problem solving skills, so I'm grinding on Leetcode as much as I can; I am also helping to develop an app for a youth organization and am responsible for managing their website. In addition, I keep most of my projects stored locally because it's always a hassle to sync everything to GitHub, but nonetheless, I've uploaded a few that I'm especially proud of here.
 
 Outside of computers, I'm interested as well in learning new languages during my free time - these include French, Urdu, and Japanese. This is because, in the future, I want to not only become a proficient software developer, but a polyglot too. This will allow me to connect with computer lovers from all across the world and work with a diverse set of talented people.
 
