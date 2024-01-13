@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-My name is Faizaan Aslam, an avid Software Engineering student at the University of Waterloo who consistently strives for daily 1% improvements. I am currently looking for a challenging 2024 summer internship.
+My name is Faizaan Aslam, an avid Software Engineering student at the University of Waterloo who constantly strives for daily 1% improvements. I am currently looking for a challenging 2024 summer internship.
 
-Outside of programming, my passions include updating [my blog about university, technology, and studying](https://medium.com/@faizaan3424) as well as learning new languages, including French, Urdu, Hindi, and Japanese. In the future, I want to become not only a proficient and well-rounded software engineer but a polyglot too, allowing me to connect with computer lovers worldwide and work with a diverse set of talented people.
+Outside of programming, my passions include updating [my blog about university, technology, and productivity](https://medium.com/@faizaan3424) as well as learning new languages, including French, Urdu, Hindi, and Japanese. In the future, I want to become not only a proficient and well-rounded software engineer but a polyglot too, allowing me to connect with computer lovers worldwide and work with a diverse set of talented people.
 
 Virtually yours,<br />
 Faizaan 😄
